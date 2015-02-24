@@ -15,3 +15,14 @@ I just threw this on heroku: [https://chat-roulette-tool.herokuapp.com][1] and
 you can use it too.
 
 [1]: https://chat-roulette-tool.herokuapp.com
+
+## license
+
+This tool is licensed under the [CC0 license.][1] Basically: do what you want,
+and there's no warranty.
+
+[1]: http://creativecommons.org/publicdomain/zero/1.0/
+
+To the extent possible under law, I have waived all copyright and related or
+neighboring rights to Chat Roulette Tool. This work is published from: United
+States.
