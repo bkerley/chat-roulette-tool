@@ -1,0 +1,10 @@
+!!!5
+%html
+  %head
+    %title chat roulette
+  %body
+    %h1 pair up
+    - 10.times do
+      %ol
+        - pairs.shuffle.each_slice(2).each do |p|
+          %li= p
