@@ -18,10 +18,10 @@ you can use it too.
 
 ## license
 
-This tool is licensed under the [CC0 license.][1] Basically: do what you want,
+This tool is licensed under the [CC0 license.][2] Basically: do what you want,
 and there's no warranty.
 
-[1]: http://creativecommons.org/publicdomain/zero/1.0/
+[2]: http://creativecommons.org/publicdomain/zero/1.0/
 
 To the extent possible under law, I have waived all copyright and related or
 neighboring rights to Chat Roulette Tool. This work is published from: United
