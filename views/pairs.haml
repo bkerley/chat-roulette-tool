@@ -7,4 +7,9 @@
     - 10.times do
       %ol
         - pairs.shuffle.each_slice(2).each do |p|
-          %li= p
+          %li
+            - if p.length > 1
+              = p.join ' & '
+            - else
+              = p.first
+              (just join channel 1)
